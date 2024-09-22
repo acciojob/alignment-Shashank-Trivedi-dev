@@ -11,5 +11,11 @@ table{
 	width: 100%;
 }
 .middle{
-	align-content:center;
+	align:center;
+}
+.center{
+	text-align:center;
+}
+.right{
+	text-align:right;
 }
